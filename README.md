@@ -8,7 +8,7 @@ In this tutorial, you will learn how to
 
 # Page Navigation
  - [Setup your python environment](#Set_up_your_python_environment)
- - [Setup selenium](#Setup Selenium)
+ - [Setup selenium](#Setup_Selenium)
 
 # Set_up_your_python_environment
 ###  - [step 1 - follow this website to install anaconda](https://www.anaconda.com/distribution/)
@@ -62,5 +62,5 @@ pip install jupyter
 
 ![pycharm_settings](./readme_assets/pycharm_setting_4.png)
 
-# Setup Selenium
+# Setup_Selenium
 
