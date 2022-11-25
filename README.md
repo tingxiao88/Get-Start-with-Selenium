@@ -9,7 +9,7 @@ In this tutorial, you will learn how to
 # Page Navigation
  - [Setup your python environment](#Set_up_your_python_environment)
  - [Setup selenium](#Setup_Selenium)
- - [pookie](#pookie)
+ - [readme 2](README_2.md)
 
 # Set_up_your_python_environment
 ###  - [step 1 - follow this website to install anaconda](https://www.anaconda.com/distribution/)
