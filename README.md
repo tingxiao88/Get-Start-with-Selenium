@@ -29,7 +29,7 @@ conda activate selenium
 ```
 ![conda_activate_selenium](./readme_assets/conda_activate_selenium.png)
 
-   - step 6 - Install packages
+   - step 6 - Install python packages
 ```bash
 # run command line by line
 pip install selenium
@@ -38,4 +38,28 @@ pip install pandas
 pip install beautifulsoup4
 pip install lxml
 pip install requests
+pip install jupyter
 ```
+
+ - step 7 add conda environment to PyCharm
+   - Open PyCharm -> Settings
+
+![pycharm_settings](./readme_assets/pycharm_setting.png)
+   
+   - Open Project -> Project Interpreter
+
+![pycharm_settings](./readme_assets/pycharm_setting_2.png)
+
+   - Open the dropdown menu and select "Add" and choose selenium environment
+
+![pycharm_settings](./readme_assets/pycharm_setting_3.png)
+
+   - make sure the environment is selected in the project interpreter and click apply
+
+![pycharm_settings](./readme_assets/pycharm_setting_4.png)
+
+
+
+
+
+
