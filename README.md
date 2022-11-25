@@ -7,10 +7,10 @@ In this tutorial, you will learn how to
  - Mimic a human user with selenium
 
 # Page Navigation
- - [Setup your python environment](#Set up your python environment)
+ - [Setup your python environment](#Set_up_your_python_environment)
  - [Setup selenium](#Setup Selenium)
 
-# Set up your python environment
+# Set_up_your_python_environment
 ###  - [step 1 - follow this website to install anaconda](https://www.anaconda.com/distribution/)
 ###  - [step 2 - install PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 ###  - step 3 - create a anaconda environment
