@@ -66,3 +66,19 @@ pip install jupyter
 
 # Setup Selenium
 <a name="Setup_Selenium"></a>
+
+### step 1 - check chrome version
+   - Open chrome -> click the three dots on the top right corner -> Help -> About Google Chrome
+
+![chrome_version](./readme_assets/chrome_version.png)
+
+### step 2 - download the webdriver with the same version as your chrome
+   - [Click here to download the ChromeDriver](https://chromedriver.chromium.org/downloads)
+
+![webdrive_download](./readme_assets/webdrive_download.png)
+
+### step 3 - unzip and move the webdriver to your "C" drive
+
+![c_drive](./readme_assets/c_drive.png)
+
+Now you are ready to start your first selenium script
