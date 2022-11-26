@@ -65,6 +65,9 @@ pip install jupyter
 ![pycharm_settings](./readme_assets/pycharm_setting_4.png)
 
 <a name="Setup_Selenium"></a>
+# Page Navigation
+ - [Setup your python environment](#Set_up_your_python_environment)
+ - [Setup selenium](#Setup_Selenium)
 # Setup Selenium
 
 ### step 1 - check chrome version
