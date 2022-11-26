@@ -6,12 +6,11 @@ In this tutorial, you will learn how to
  - webscraping with selenium
  - Mimic a human user with selenium
 
+<a name="Set_up_your_python_environment"></a>
 # Page Navigation
  - [Setup your python environment](#Set_up_your_python_environment)
  - [Setup selenium](#Setup_Selenium)
- 
 
-<a name="Set_up_your_python_environment"></a>
 # Set up your python environment
 ###  - [step 1 - follow this website to install anaconda](https://www.anaconda.com/distribution/)
 ###  - [step 2 - install PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
