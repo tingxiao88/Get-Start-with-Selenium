@@ -9,7 +9,8 @@ In this tutorial, you will learn how to
 # Page Navigation
  - [Setup your python environment](#Set_up_your_python_environment)
  - [Setup selenium](#Setup_Selenium)
- - [readme 2](README_2.md)
+ - [Tutorial 1](./Tutorial/1_Chrome_Selenium_Setup.ipynb)
+ 
 
 <a name="Set_up_your_python_environment"></a>
 # Set up your python environment
@@ -64,8 +65,8 @@ pip install jupyter
 
 ![pycharm_settings](./readme_assets/pycharm_setting_4.png)
 
-# Setup Selenium
 <a name="Setup_Selenium"></a>
+# Setup Selenium
 
 ### step 1 - check chrome version
    - Open chrome -> click the three dots on the top right corner -> Help -> About Google Chrome
