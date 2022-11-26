@@ -11,7 +11,8 @@ In this tutorial, you will learn how to
  - [Setup selenium](#Setup_Selenium)
  - [readme 2](README_2.md)
 
-# Set_up_your_python_environment
+<a name="Set_up_your_python_environment"></a>
+# Set up your python environment
 ###  - [step 1 - follow this website to install anaconda](https://www.anaconda.com/distribution/)
 ###  - [step 2 - install PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 ###  - step 3 - create a anaconda environment
@@ -63,5 +64,5 @@ pip install jupyter
 
 ![pycharm_settings](./readme_assets/pycharm_setting_4.png)
 
-# Setup_Selenium
-<a name="pookie"></a>
+# Setup Selenium
+<a name="Setup_Selenium"></a>
