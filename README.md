@@ -9,7 +9,6 @@ In this tutorial, you will learn how to
 # Page Navigation
  - [Setup your python environment](#Set_up_your_python_environment)
  - [Setup selenium](#Setup_Selenium)
- - [Tutorial 1](./Tutorial/1_Chrome_Selenium_Setup.ipynb)
  
 
 <a name="Set_up_your_python_environment"></a>
